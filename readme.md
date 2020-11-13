@@ -1,4 +1,4 @@
-##Risposta quesito 6
+## Risposta quesito 6
 Ho implementato la soluzione 1 il cui flusso è riportato nel file [quesito6.pdf](./quesito6.pdf). Il file presenta anche una seconda interpretazione possibile del problema ma ho preferito adottare la prima soluzione poichè sembrava quella più affine alla richiesta del quesito.
 
 Per lo sviluppo della soluzione ho adottato il linguaggio **TypeScript**.
