@@ -1,11 +1,11 @@
-## Risposta quesito 6
-Ho implementato la soluzione 1 il cui flusso è riportato nel file [quesito6.pdf](./quesito6.pdf). Il file presenta anche una seconda interpretazione possibile del problema ma ho preferito adottare la prima soluzione poichè sembrava quella più affine alla richiesta del quesito.
+##Risposta quesito 6
+Ho implementato la soluzione 1 il cui flusso è riportato nel file [quesito6.pdf](quesito6.pdf). Il file presenta anche una seconda interpretazione possibile del problema ma ho preferito adottare la prima soluzione poichè sembrava quella più affine alla richiesta del quesito.
 
 Per lo sviluppo della soluzione ho adottato il linguaggio **TypeScript**.
 
 Ho riportato le classi come mostrato dalla figura allegata al quesito 6 e ho realizzato l'implementazione della funzione ```getRecomandation()``` della classe *Customer*
 
-![Figura quesito 6](./figura.png)
+![Figura quesito 6](figura.png)
 
 
 Per eseguire i test mi sono avvalso di un finto database che potete trovare nel file [MockDB.ts](./bin/mock/MockDB.ts). Ho ipotizzato che le risorse degli acquisti effettuati siano locali e non remote, eliminado così l'attesa per il loro download.
